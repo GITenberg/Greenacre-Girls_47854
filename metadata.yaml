@@ -1,4 +1,8 @@
 _repo: Greenacre-Girls_47854
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47854-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Forrester, Izola L. (Izola Louise)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5803
     wikipedia: http://en.wikipedia.org/wiki/Izola_forrester
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47854#Greenacre-Girls
 gutenberg_issued: '2015-06-11'
 gutenberg_type: Text
 identifiers:
